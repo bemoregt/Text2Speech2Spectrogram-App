@@ -2,6 +2,10 @@
 
 A Python application that converts text to speech and displays the spectrogram visualization alongside the audio waveform.
 
+## Screenshot
+
+![Application Screenshot](./스크린샷_2023-07-27_오전_11.41.12.png)
+
 ## Overview
 
 This application uses PyTorch and TorchAudio to convert text into speech using the Tacotron2 and WaveRNN models. It provides a simple GUI interface built with Tkinter that allows users to:
